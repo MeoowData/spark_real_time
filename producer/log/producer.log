@@ -1,0 +1,360 @@
+2023-07-14 16:13:24,276::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "Caleb Miller", "bandeira": "Mastercard", "credit_card": "5163153528513871", "value": "$6.75", "dia_compra": "2023-07-14", "horario_compra": "16:12:33", "formato_captura": "Gateway"}
+
+2023-07-14 16:13:25,279::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "Gabriel Harvey", "bandeira": "VISA 13 digit", "credit_card": "4895957819435", "value": "$5,067.41", "dia_compra": "2023-07-14", "horario_compra": "16:13:24", "formato_captura": "POS"}
+
+2023-07-14 16:13:26,283::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "Evelyn Hicks", "bandeira": "American Express", "credit_card": "376499120970009", "value": "$98,074.97", "dia_compra": "2023-07-14", "horario_compra": "16:13:25", "formato_captura": "POS"}
+
+2023-07-14 16:13:27,286::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "Michael Kramer", "bandeira": "JCB 16 digit", "credit_card": "3584999497848359", "value": "$3.23", "dia_compra": "2023-07-14", "horario_compra": "16:13:26", "formato_captura": "Gateway"}
+
+2023-07-14 16:13:28,288::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "Rebecca Robinson", "bandeira": "Discover", "credit_card": "6542919454140321", "value": "$56.10", "dia_compra": "2023-07-14", "horario_compra": "16:13:27", "formato_captura": "TEF"}
+
+2023-07-14 16:13:29,291::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "Manuel Peterson", "bandeira": "VISA 19 digit", "credit_card": "4702104478807120316", "value": "$71.34", "dia_compra": "2023-07-14", "horario_compra": "16:13:28", "formato_captura": "POS"}
+
+2023-07-14 16:13:30,293::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "Brenda Reeves", "bandeira": "Mastercard", "credit_card": "2281411291061922", "value": "$79.92", "dia_compra": "2023-07-14", "horario_compra": "16:13:29", "formato_captura": "POS"}
+
+2023-07-14 16:13:31,296::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "Samuel Baker", "bandeira": "VISA 16 digit", "credit_card": "4082300178687015", "value": "$567.70", "dia_compra": "2023-07-14", "horario_compra": "16:13:30", "formato_captura": "Gateway"}
+
+2023-07-14 16:13:32,299::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "Robert Martinez", "bandeira": "Discover", "credit_card": "6011996031582904", "value": "$673.74", "dia_compra": "2023-07-14", "horario_compra": "16:13:31", "formato_captura": "Gateway"}
+
+2023-07-14 16:13:33,302::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "Kristi Murphy", "bandeira": "Discover", "credit_card": "6576000968870981", "value": "$360.38", "dia_compra": "2023-07-14", "horario_compra": "16:13:32", "formato_captura": "TEF"}
+
+2023-07-14 16:13:49,319::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "Jeremy Todd", "bandeira": "Mastercard", "credit_card": "5577984937008552", "value": "$951.27", "dia_compra": "2023-07-14", "horario_compra": "16:13:48", "formato_captura": "Gateway"}
+
+2023-07-14 16:13:50,322::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "Sara Chen", "bandeira": "JCB 15 digit", "credit_card": "213135518118499", "value": "$6,561.72", "dia_compra": "2023-07-14", "horario_compra": "16:13:49", "formato_captura": "Gateway"}
+
+2023-07-14 16:13:51,325::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "Robert Wilson", "bandeira": "VISA 19 digit", "credit_card": "4353710138954987101", "value": "$8.78", "dia_compra": "2023-07-14", "horario_compra": "16:13:50", "formato_captura": "Gateway"}
+
+2023-07-14 16:13:52,328::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "Susan Harris", "bandeira": "Diners Club / Carte Blanche", "credit_card": "36492626062506", "value": "$7,232.21", "dia_compra": "2023-07-14", "horario_compra": "16:13:51", "formato_captura": "TEF"}
+
+2023-07-14 16:13:53,330::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "David Thomas", "bandeira": "JCB 16 digit", "credit_card": "3597415112883973", "value": "$0.72", "dia_compra": "2023-07-14", "horario_compra": "16:13:52", "formato_captura": "POS"}
+
+2023-07-14 16:13:54,333::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "Theodore Watson", "bandeira": "VISA 19 digit", "credit_card": "4966366350416898570", "value": "$9,474.00", "dia_compra": "2023-07-14", "horario_compra": "16:13:53", "formato_captura": "TEF"}
+
+2023-07-14 16:13:55,337::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "Karen Wilson", "bandeira": "VISA 13 digit", "credit_card": "4556480048302", "value": "$44,742.71", "dia_compra": "2023-07-14", "horario_compra": "16:13:54", "formato_captura": "Gateway"}
+
+2023-07-14 16:13:56,340::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "Rebecca Smith", "bandeira": "Diners Club / Carte Blanche", "credit_card": "38020721229866", "value": "$74,878.12", "dia_compra": "2023-07-14", "horario_compra": "16:13:55", "formato_captura": "POS"}
+
+2023-07-14 16:13:57,343::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "Kevin Burton", "bandeira": "VISA 16 digit", "credit_card": "4699935682277293", "value": "$49,379.38", "dia_compra": "2023-07-14", "horario_compra": "16:13:56", "formato_captura": "Gateway"}
+
+2023-07-14 16:13:58,345::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "Angela Chambers", "bandeira": "Mastercard", "credit_card": "5519845070345054", "value": "$8.77", "dia_compra": "2023-07-14", "horario_compra": "16:13:57", "formato_captura": "POS"}
+
+2023-07-14 16:14:40,386::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "Julia Fowler", "bandeira": "Diners Club / Carte Blanche", "credit_card": "30140424249710", "value": "$32,809.83", "dia_compra": "2023-07-14", "horario_compra": "16:14:39", "formato_captura": "Gateway"}
+
+2023-07-14 16:14:41,390::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "James Harris", "bandeira": "JCB 15 digit", "credit_card": "213134393203914", "value": "$823.39", "dia_compra": "2023-07-14", "horario_compra": "16:14:40", "formato_captura": "Gateway"}
+
+2023-07-14 16:14:42,392::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "David Riley", "bandeira": "VISA 16 digit", "credit_card": "4283286065273877", "value": "$988.03", "dia_compra": "2023-07-14", "horario_compra": "16:14:41", "formato_captura": "POS"}
+
+2023-07-14 16:14:43,394::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "Johnathan Huang", "bandeira": "VISA 19 digit", "credit_card": "4662629520760205378", "value": "$4.81", "dia_compra": "2023-07-14", "horario_compra": "16:14:42", "formato_captura": "POS"}
+
+2023-07-14 16:14:44,396::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "Matthew Berger", "bandeira": "Maestro", "credit_card": "675945756327", "value": "$69.74", "dia_compra": "2023-07-14", "horario_compra": "16:14:43", "formato_captura": "Gateway"}
+
+2023-07-14 16:14:45,398::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "Richard Bishop", "bandeira": "VISA 19 digit", "credit_card": "4810131103883430425", "value": "$537.51", "dia_compra": "2023-07-14", "horario_compra": "16:14:44", "formato_captura": "POS"}
+
+2023-07-14 16:14:46,400::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "Cheryl Houston", "bandeira": "Mastercard", "credit_card": "2293789959679952", "value": "$5.99", "dia_compra": "2023-07-14", "horario_compra": "16:14:45", "formato_captura": "TEF"}
+
+2023-07-14 16:14:47,403::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "Catherine Edwards", "bandeira": "VISA 13 digit", "credit_card": "4256722739103", "value": "$51.93", "dia_compra": "2023-07-14", "horario_compra": "16:14:46", "formato_captura": "TEF"}
+
+2023-07-14 16:14:48,405::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "James Wallace", "bandeira": "Diners Club / Carte Blanche", "credit_card": "38815611775708", "value": "$897.95", "dia_compra": "2023-07-14", "horario_compra": "16:14:47", "formato_captura": "TEF"}
+
+2023-07-14 16:14:49,407::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "Michael Baldwin", "bandeira": "American Express", "credit_card": "370354485204187", "value": "$140.68", "dia_compra": "2023-07-14", "horario_compra": "16:14:48", "formato_captura": "TEF"}
+
+2023-07-14 16:15:07,425::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "Emily Carter", "bandeira": "VISA 13 digit", "credit_card": "4196845605650", "value": "$64,727.33", "dia_compra": "2023-07-14", "horario_compra": "16:15:06", "formato_captura": "TEF"}
+
+2023-07-14 16:15:08,428::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "Diana Cunningham", "bandeira": "Mastercard", "credit_card": "2709162515506952", "value": "$26,818.99", "dia_compra": "2023-07-14", "horario_compra": "16:15:07", "formato_captura": "TEF"}
+
+2023-07-14 16:15:09,430::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "Johnny Mcintyre", "bandeira": "JCB 15 digit", "credit_card": "213169868144672", "value": "$51.89", "dia_compra": "2023-07-14", "horario_compra": "16:15:08", "formato_captura": "TEF"}
+
+2023-07-14 16:15:10,432::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "Nathan Flynn", "bandeira": "VISA 13 digit", "credit_card": "4836281935992", "value": "$3,355.39", "dia_compra": "2023-07-14", "horario_compra": "16:15:09", "formato_captura": "TEF"}
+
+2023-07-14 16:15:11,434::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "Roger Washington", "bandeira": "JCB 15 digit", "credit_card": "180091032398274", "value": "$43.09", "dia_compra": "2023-07-14", "horario_compra": "16:15:10", "formato_captura": "POS"}
+
+2023-07-14 16:15:12,436::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "Kathleen Delacruz", "bandeira": "JCB 16 digit", "credit_card": "3548860702117623", "value": "$9,610.55", "dia_compra": "2023-07-14", "horario_compra": "16:15:11", "formato_captura": "POS"}
+
+2023-07-14 16:15:13,438::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "Jamie Johnson", "bandeira": "JCB 16 digit", "credit_card": "3560386072504458", "value": "$3,851.81", "dia_compra": "2023-07-14", "horario_compra": "16:15:12", "formato_captura": "Gateway"}
+
+2023-07-14 16:15:14,442::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "Kari Harmon", "bandeira": "American Express", "credit_card": "347198195781780", "value": "$6.75", "dia_compra": "2023-07-14", "horario_compra": "16:15:13", "formato_captura": "POS"}
+
+2023-07-14 16:15:15,444::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "Logan Foley", "bandeira": "Diners Club / Carte Blanche", "credit_card": "30127106207744", "value": "$4.95", "dia_compra": "2023-07-14", "horario_compra": "16:15:14", "formato_captura": "POS"}
+
+2023-07-14 16:15:16,447::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "Molly Murphy", "bandeira": "Discover", "credit_card": "6011173944608412", "value": "$11,934.07", "dia_compra": "2023-07-14", "horario_compra": "16:15:15", "formato_captura": "POS"}
+
+2023-07-14 16:15:39,471::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "Jeffrey Greene", "bandeira": "VISA 16 digit", "credit_card": "4228270152198906", "value": "$6,041.94", "dia_compra": "2023-07-14", "horario_compra": "16:15:38", "formato_captura": "POS"}
+
+2023-07-14 16:15:40,473::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "Melissa Daniels", "bandeira": "JCB 16 digit", "credit_card": "3573424636762596", "value": "$86.20", "dia_compra": "2023-07-14", "horario_compra": "16:15:39", "formato_captura": "POS"}
+
+2023-07-14 16:15:41,475::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "Richard Todd", "bandeira": "American Express", "credit_card": "348664239418019", "value": "$3.67", "dia_compra": "2023-07-14", "horario_compra": "16:15:40", "formato_captura": "POS"}
+
+2023-07-14 16:15:42,476::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "Lauren Mccarthy", "bandeira": "VISA 16 digit", "credit_card": "4690923066952631", "value": "$35,220.92", "dia_compra": "2023-07-14", "horario_compra": "16:15:41", "formato_captura": "POS"}
+
+2023-07-14 16:15:43,479::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "Mary Brown", "bandeira": "JCB 15 digit", "credit_card": "180078337753824", "value": "$67.91", "dia_compra": "2023-07-14", "horario_compra": "16:15:42", "formato_captura": "Gateway"}
+
+2023-07-14 16:15:44,481::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "Paula Shelton", "bandeira": "American Express", "credit_card": "348398228352943", "value": "$74,362.04", "dia_compra": "2023-07-14", "horario_compra": "16:15:43", "formato_captura": "TEF"}
+
+2023-07-14 16:15:45,483::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "James Olsen", "bandeira": "VISA 16 digit", "credit_card": "4959269054078252", "value": "$7,937.26", "dia_compra": "2023-07-14", "horario_compra": "16:15:44", "formato_captura": "POS"}
+
+2023-07-14 16:15:46,485::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "Nicholas Jennings", "bandeira": "Maestro", "credit_card": "676275506480", "value": "$59.64", "dia_compra": "2023-07-14", "horario_compra": "16:15:45", "formato_captura": "TEF"}
+
+2023-07-14 16:15:47,487::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "Heather Payne", "bandeira": "Discover", "credit_card": "6596437692135438", "value": "$2.17", "dia_compra": "2023-07-14", "horario_compra": "16:15:46", "formato_captura": "POS"}
+
+2023-07-14 16:15:48,489::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "Laura Hall", "bandeira": "JCB 16 digit", "credit_card": "3535712321048579", "value": "$7,437.37", "dia_compra": "2023-07-14", "horario_compra": "16:15:47", "formato_captura": "POS"}
+
+2023-07-14 16:16:08,509::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "Lindsey James", "bandeira": "JCB 16 digit", "credit_card": "3523045174645520", "value": "$109.43", "dia_compra": "2023-07-14", "horario_compra": "16:16:07", "formato_captura": "POS"}
+
+2023-07-14 16:16:09,511::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "David Chung", "bandeira": "VISA 16 digit", "credit_card": "4854866458471201", "value": "$74.95", "dia_compra": "2023-07-14", "horario_compra": "16:16:08", "formato_captura": "TEF"}
+
+2023-07-14 16:16:10,512::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "Stacy Brown", "bandeira": "Maestro", "credit_card": "503880195386", "value": "$59,749.14", "dia_compra": "2023-07-14", "horario_compra": "16:16:09", "formato_captura": "Gateway"}
+
+2023-07-14 16:16:11,514::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "Shannon Smith", "bandeira": "VISA 19 digit", "credit_card": "4055349222700489149", "value": "$64.75", "dia_compra": "2023-07-14", "horario_compra": "16:16:10", "formato_captura": "Gateway"}
+
+2023-07-14 16:16:12,515::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "Dylan Griffin", "bandeira": "JCB 16 digit", "credit_card": "3599839580620104", "value": "$4,130.13", "dia_compra": "2023-07-14", "horario_compra": "16:16:11", "formato_captura": "TEF"}
+
+2023-07-14 16:16:13,518::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "Jeffrey Scott DDS", "bandeira": "VISA 19 digit", "credit_card": "4255962110261648306", "value": "$19.76", "dia_compra": "2023-07-14", "horario_compra": "16:16:12", "formato_captura": "POS"}
+
+2023-07-14 16:16:14,521::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "Andrew Ballard", "bandeira": "JCB 16 digit", "credit_card": "3547532362541787", "value": "$2,878.44", "dia_compra": "2023-07-14", "horario_compra": "16:16:13", "formato_captura": "TEF"}
+
+2023-07-14 16:16:15,523::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "Nicholas Wang", "bandeira": "Mastercard", "credit_card": "2246435264725282", "value": "$8,370.26", "dia_compra": "2023-07-14", "horario_compra": "16:16:14", "formato_captura": "Gateway"}
+
+2023-07-14 16:16:16,524::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "Brandy Hicks", "bandeira": "VISA 19 digit", "credit_card": "4335189163196151406", "value": "$5.04", "dia_compra": "2023-07-14", "horario_compra": "16:16:15", "formato_captura": "TEF"}
+
+2023-07-14 16:16:17,527::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "Laura Miller", "bandeira": "VISA 16 digit", "credit_card": "4644782366941950", "value": "$7,741.95", "dia_compra": "2023-07-14", "horario_compra": "16:16:16", "formato_captura": "Gateway"}
+
+2023-07-14 16:17:15,585::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "Frank Johnson", "bandeira": "VISA 16 digit", "credit_card": "4938287672762459", "value": "$6.04", "dia_compra": "2023-07-14", "horario_compra": "16:17:14", "formato_captura": "POS"}
+
+2023-07-14 16:17:16,587::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "Mary Huffman", "bandeira": "Mastercard", "credit_card": "5556455895376682", "value": "$98,137.34", "dia_compra": "2023-07-14", "horario_compra": "16:17:15", "formato_captura": "TEF"}
+
+2023-07-14 16:17:17,590::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "Dylan Reed", "bandeira": "VISA 16 digit", "credit_card": "4273257195763915", "value": "$5.55", "dia_compra": "2023-07-14", "horario_compra": "16:17:16", "formato_captura": "TEF"}
+
+2023-07-14 16:17:18,593::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "Kimberly Pena", "bandeira": "Mastercard", "credit_card": "2237493127269510", "value": "$95,414.24", "dia_compra": "2023-07-14", "horario_compra": "16:17:17", "formato_captura": "Gateway"}
+
+2023-07-14 16:17:19,595::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "Jeremy Mcgrath", "bandeira": "American Express", "credit_card": "376616336986558", "value": "$470.54", "dia_compra": "2023-07-14", "horario_compra": "16:17:18", "formato_captura": "POS"}
+
+2023-07-14 16:17:20,596::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "Timothy Abbott", "bandeira": "JCB 15 digit", "credit_card": "213164344812992", "value": "$3,625.64", "dia_compra": "2023-07-14", "horario_compra": "16:17:19", "formato_captura": "Gateway"}
+
+2023-07-14 16:17:21,598::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "Jacob Hardin", "bandeira": "American Express", "credit_card": "371891407239055", "value": "$560.20", "dia_compra": "2023-07-14", "horario_compra": "16:17:20", "formato_captura": "TEF"}
+
+2023-07-14 16:17:22,600::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "Teresa Davila", "bandeira": "Maestro", "credit_card": "501829768768", "value": "$3,461.79", "dia_compra": "2023-07-14", "horario_compra": "16:17:21", "formato_captura": "POS"}
+
+2023-07-14 16:17:23,602::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "Leonard Pineda", "bandeira": "VISA 19 digit", "credit_card": "4810237225326046741", "value": "$15,934.26", "dia_compra": "2023-07-14", "horario_compra": "16:17:22", "formato_captura": "Gateway"}
+
+2023-07-14 16:17:24,603::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "Patty Davenport", "bandeira": "VISA 19 digit", "credit_card": "4578460024860908197", "value": "$896.94", "dia_compra": "2023-07-14", "horario_compra": "16:17:23", "formato_captura": "POS"}
+
+2023-07-14 16:18:19,657::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "Dylan Anderson", "bandeira": "American Express", "credit_card": "341645714775244", "value": "$275.30", "dia_compra": "2023-07-14", "horario_compra": "16:18:18", "formato_captura": "TEF"}
+
+2023-07-14 16:18:20,659::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "Lauren Diaz", "bandeira": "VISA 13 digit", "credit_card": "4742722297762", "value": "$24.19", "dia_compra": "2023-07-14", "horario_compra": "16:18:19", "formato_captura": "POS"}
+
+2023-07-14 16:18:21,661::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "Katie Nguyen", "bandeira": "VISA 19 digit", "credit_card": "4592532711450957759", "value": "$24,386.08", "dia_compra": "2023-07-14", "horario_compra": "16:18:20", "formato_captura": "Gateway"}
+
+2023-07-14 16:18:22,663::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "Tammy Fowler", "bandeira": "Discover", "credit_card": "6011676173832107", "value": "$344.41", "dia_compra": "2023-07-14", "horario_compra": "16:18:21", "formato_captura": "TEF"}
+
+2023-07-14 16:18:23,664::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "Eric Vaughn", "bandeira": "VISA 16 digit", "credit_card": "4842024755291253", "value": "$66.39", "dia_compra": "2023-07-14", "horario_compra": "16:18:22", "formato_captura": "Gateway"}
+
+2023-07-14 16:18:24,666::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "Daniel Chaney", "bandeira": "Discover", "credit_card": "6515731560897048", "value": "$4,954.11", "dia_compra": "2023-07-14", "horario_compra": "16:18:23", "formato_captura": "POS"}
+
+2023-07-14 16:18:25,668::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "Erica Dennis", "bandeira": "American Express", "credit_card": "348077386829112", "value": "$8.54", "dia_compra": "2023-07-14", "horario_compra": "16:18:24", "formato_captura": "TEF"}
+
+2023-07-14 16:18:26,669::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "Steven Valenzuela", "bandeira": "VISA 16 digit", "credit_card": "4785330491991612", "value": "$8,505.51", "dia_compra": "2023-07-14", "horario_compra": "16:18:25", "formato_captura": "Gateway"}
+
+2023-07-14 16:18:27,670::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "John Montgomery", "bandeira": "VISA 16 digit", "credit_card": "4472129920105390", "value": "$3.59", "dia_compra": "2023-07-14", "horario_compra": "16:18:26", "formato_captura": "TEF"}
+
+2023-07-14 16:18:28,672::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "Gabriel Terry", "bandeira": "VISA 16 digit", "credit_card": "4274360538783001", "value": "$1,244.11", "dia_compra": "2023-07-14", "horario_compra": "16:18:27", "formato_captura": "TEF"}
+
+2023-07-14 16:18:56,697::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "Wendy Miller", "bandeira": "JCB 15 digit", "credit_card": "213196520398214", "value": "$39.93", "dia_compra": "2023-07-14", "horario_compra": "16:18:55", "formato_captura": "TEF"}
+
+2023-07-14 16:18:57,699::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "Ashlee Myers", "bandeira": "VISA 19 digit", "credit_card": "4497750220660469990", "value": "$85,841.27", "dia_compra": "2023-07-14", "horario_compra": "16:18:56", "formato_captura": "POS"}
+
+2023-07-14 16:18:58,701::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "Rebecca Anderson", "bandeira": "Diners Club / Carte Blanche", "credit_card": "30341208234858", "value": "$1.15", "dia_compra": "2023-07-14", "horario_compra": "16:18:57", "formato_captura": "Gateway"}
+
+2023-07-14 16:18:59,703::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "Vanessa Cantu", "bandeira": "VISA 13 digit", "credit_card": "4913947837100", "value": "$4,988.00", "dia_compra": "2023-07-14", "horario_compra": "16:18:58", "formato_captura": "POS"}
+
+2023-07-14 16:19:00,705::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "Marcia Watts", "bandeira": "Maestro", "credit_card": "562333754348", "value": "$7.10", "dia_compra": "2023-07-14", "horario_compra": "16:18:59", "formato_captura": "TEF"}
+
+2023-07-14 16:19:01,707::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "Jacqueline Michael", "bandeira": "Mastercard", "credit_card": "2280044157909974", "value": "$96.31", "dia_compra": "2023-07-14", "horario_compra": "16:19:00", "formato_captura": "Gateway"}
+
+2023-07-14 16:19:02,708::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "Melissa Singleton", "bandeira": "VISA 19 digit", "credit_card": "4868081210701920426", "value": "$5,091.53", "dia_compra": "2023-07-14", "horario_compra": "16:19:01", "formato_captura": "POS"}
+
+2023-07-14 16:19:03,710::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "William Johnson", "bandeira": "JCB 16 digit", "credit_card": "3542067452908419", "value": "$1.41", "dia_compra": "2023-07-14", "horario_compra": "16:19:02", "formato_captura": "TEF"}
+
+2023-07-14 16:19:04,711::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "Samuel Alexander", "bandeira": "VISA 19 digit", "credit_card": "4787719436226228456", "value": "$32.44", "dia_compra": "2023-07-14", "horario_compra": "16:19:03", "formato_captura": "TEF"}
+
+2023-07-14 16:19:05,713::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "Erin Rodriguez", "bandeira": "JCB 16 digit", "credit_card": "3524476534125268", "value": "$3.43", "dia_compra": "2023-07-14", "horario_compra": "16:19:04", "formato_captura": "POS"}
+
+2023-07-14 16:19:12,721::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "Jonathan Ward", "bandeira": "JCB 16 digit", "credit_card": "3518857356820060", "value": "$8.64", "dia_compra": "2023-07-14", "horario_compra": "16:19:11", "formato_captura": "POS"}
+
+2023-07-14 16:19:13,723::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "Alyssa Campbell", "bandeira": "Discover", "credit_card": "6506663982727159", "value": "$37,943.05", "dia_compra": "2023-07-14", "horario_compra": "16:19:12", "formato_captura": "TEF"}
+
+2023-07-14 16:19:14,725::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "Allison Nelson", "bandeira": "VISA 13 digit", "credit_card": "4257777526874", "value": "$562.66", "dia_compra": "2023-07-14", "horario_compra": "16:19:13", "formato_captura": "Gateway"}
+
+2023-07-14 16:19:15,726::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "Dakota Hurst", "bandeira": "VISA 16 digit", "credit_card": "4488274971303791", "value": "$6.57", "dia_compra": "2023-07-14", "horario_compra": "16:19:14", "formato_captura": "Gateway"}
+
+2023-07-14 16:19:16,728::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "Travis Woods", "bandeira": "Mastercard", "credit_card": "2240870935867095", "value": "$58,658.40", "dia_compra": "2023-07-14", "horario_compra": "16:19:15", "formato_captura": "TEF"}
+
+2023-07-14 16:19:17,730::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "Clinton Anderson", "bandeira": "American Express", "credit_card": "377102225632503", "value": "$3.79", "dia_compra": "2023-07-14", "horario_compra": "16:19:16", "formato_captura": "Gateway"}
+
+2023-07-14 16:19:18,731::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "John Garcia", "bandeira": "VISA 13 digit", "credit_card": "4919897242365", "value": "$268.77", "dia_compra": "2023-07-14", "horario_compra": "16:19:17", "formato_captura": "Gateway"}
+
+2023-07-14 16:19:19,733::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "Jared Warner", "bandeira": "Discover", "credit_card": "6011668349146561", "value": "$1,122.65", "dia_compra": "2023-07-14", "horario_compra": "16:19:18", "formato_captura": "TEF"}
+
+2023-07-14 16:19:20,735::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "Clayton Barrett", "bandeira": "JCB 15 digit", "credit_card": "180008402831098", "value": "$62,959.59", "dia_compra": "2023-07-14", "horario_compra": "16:19:19", "formato_captura": "POS"}
+
+2023-07-14 16:19:21,737::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "Leslie Robinson", "bandeira": "Diners Club / Carte Blanche", "credit_card": "30265173475628", "value": "$3,856.77", "dia_compra": "2023-07-14", "horario_compra": "16:19:20", "formato_captura": "POS"}
+
+2023-07-14 16:20:13,789::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "Gregory Walters", "bandeira": "VISA 16 digit", "credit_card": "4546357329174590", "value": "$3.85", "dia_compra": "2023-07-14", "horario_compra": "16:20:12", "formato_captura": "Gateway"}
+
+2023-07-14 16:20:14,791::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "David Hensley", "bandeira": "American Express", "credit_card": "345816927533417", "value": "$962.11", "dia_compra": "2023-07-14", "horario_compra": "16:20:13", "formato_captura": "TEF"}
+
+2023-07-14 16:20:15,793::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "Clayton Silva", "bandeira": "JCB 15 digit", "credit_card": "180023493155125", "value": "$352.70", "dia_compra": "2023-07-14", "horario_compra": "16:20:14", "formato_captura": "TEF"}
+
+2023-07-14 16:20:16,795::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "Theresa Patton", "bandeira": "Diners Club / Carte Blanche", "credit_card": "36607205307218", "value": "$6,038.97", "dia_compra": "2023-07-14", "horario_compra": "16:20:15", "formato_captura": "TEF"}
+
+2023-07-14 16:20:17,797::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "John Mcclure", "bandeira": "VISA 16 digit", "credit_card": "4605526271864899", "value": "$9.57", "dia_compra": "2023-07-14", "horario_compra": "16:20:16", "formato_captura": "TEF"}
+
+2023-07-14 16:20:18,799::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "Virginia Mckinney", "bandeira": "JCB 16 digit", "credit_card": "3526558431128822", "value": "$94,933.66", "dia_compra": "2023-07-14", "horario_compra": "16:20:17", "formato_captura": "Gateway"}
+
+2023-07-14 16:20:19,801::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "George Arias", "bandeira": "JCB 16 digit", "credit_card": "3523438536518453", "value": "$4.66", "dia_compra": "2023-07-14", "horario_compra": "16:20:18", "formato_captura": "Gateway"}
+
+2023-07-14 16:20:20,802::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "Sean Graham", "bandeira": "VISA 13 digit", "credit_card": "4316644218022", "value": "$66,624.81", "dia_compra": "2023-07-14", "horario_compra": "16:20:19", "formato_captura": "Gateway"}
+
+2023-07-14 16:20:21,804::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "Steven Fleming", "bandeira": "Maestro", "credit_card": "572479022467", "value": "$47.42", "dia_compra": "2023-07-14", "horario_compra": "16:20:20", "formato_captura": "Gateway"}
+
+2023-07-14 16:20:22,806::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "Joseph Thornton", "bandeira": "Discover", "credit_card": "6553319729408213", "value": "$4,728.56", "dia_compra": "2023-07-14", "horario_compra": "16:20:21", "formato_captura": "POS"}
+
+2023-07-14 16:20:43,825::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "Daniel Massey", "bandeira": "American Express", "credit_card": "375804589449828", "value": "$52,569.65", "dia_compra": "2023-07-14", "horario_compra": "16:20:42", "formato_captura": "TEF"}
+
+2023-07-14 16:20:44,827::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "John Wells", "bandeira": "VISA 13 digit", "credit_card": "4622185380927", "value": "$146.36", "dia_compra": "2023-07-14", "horario_compra": "16:20:43", "formato_captura": "TEF"}
+
+2023-07-14 16:20:45,829::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "Isabella Cummings", "bandeira": "Maestro", "credit_card": "561910234161", "value": "$0.17", "dia_compra": "2023-07-14", "horario_compra": "16:20:44", "formato_captura": "POS"}
+
+2023-07-14 16:20:46,830::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "Sara Clarke MD", "bandeira": "American Express", "credit_card": "342012288692124", "value": "$23.30", "dia_compra": "2023-07-14", "horario_compra": "16:20:45", "formato_captura": "TEF"}
+
+2023-07-14 16:20:47,832::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "Carl Olson", "bandeira": "JCB 16 digit", "credit_card": "3590997891804244", "value": "$6,929.86", "dia_compra": "2023-07-14", "horario_compra": "16:20:46", "formato_captura": "TEF"}
+
+2023-07-14 16:20:48,834::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "Courtney Jefferson", "bandeira": "Maestro", "credit_card": "584664019000", "value": "$38,393.18", "dia_compra": "2023-07-14", "horario_compra": "16:20:47", "formato_captura": "POS"}
+
+2023-07-14 16:20:49,835::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "Rickey Walker", "bandeira": "Maestro", "credit_card": "676285412141", "value": "$466.04", "dia_compra": "2023-07-14", "horario_compra": "16:20:48", "formato_captura": "POS"}
+
+2023-07-14 16:20:50,837::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "Alicia Freeman", "bandeira": "Discover", "credit_card": "6590155878845622", "value": "$34.48", "dia_compra": "2023-07-14", "horario_compra": "16:20:49", "formato_captura": "POS"}
+
+2023-07-14 16:20:51,839::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "Patrick Cunningham", "bandeira": "VISA 13 digit", "credit_card": "4497572152191", "value": "$7,140.20", "dia_compra": "2023-07-14", "horario_compra": "16:20:50", "formato_captura": "TEF"}
+
+2023-07-14 16:20:52,841::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "Lisa Mcdonald DDS", "bandeira": "Maestro", "credit_card": "676328192239", "value": "$21.60", "dia_compra": "2023-07-14", "horario_compra": "16:20:51", "formato_captura": "TEF"}
+
+2023-07-14 16:21:27,876::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "Cole Brown", "bandeira": "VISA 13 digit", "credit_card": "4868651666808", "value": "$3,190.22", "dia_compra": "2023-07-14", "horario_compra": "16:21:26", "formato_captura": "POS"}
+
+2023-07-14 16:21:28,878::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "Taylor Fisher", "bandeira": "VISA 19 digit", "credit_card": "4072215405837657664", "value": "$99,614.63", "dia_compra": "2023-07-14", "horario_compra": "16:21:27", "formato_captura": "Gateway"}
+
+2023-07-14 16:21:29,879::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "Francisco Bridges", "bandeira": "Diners Club / Carte Blanche", "credit_card": "36621434552502", "value": "$7,990.45", "dia_compra": "2023-07-14", "horario_compra": "16:21:28", "formato_captura": "TEF"}
+
+2023-07-14 16:21:30,881::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "Heather Walker", "bandeira": "Mastercard", "credit_card": "2426927018393088", "value": "$7.26", "dia_compra": "2023-07-14", "horario_compra": "16:21:29", "formato_captura": "Gateway"}
+
+2023-07-14 16:21:31,882::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "John Mcdonald", "bandeira": "VISA 13 digit", "credit_card": "4170519253071", "value": "$31,112.02", "dia_compra": "2023-07-14", "horario_compra": "16:21:30", "formato_captura": "POS"}
+
+2023-07-14 16:21:32,884::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "Laura Smith", "bandeira": "JCB 15 digit", "credit_card": "213117286448704", "value": "$41,599.38", "dia_compra": "2023-07-14", "horario_compra": "16:21:31", "formato_captura": "POS"}
+
+2023-07-14 16:21:33,885::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "Michael Jackson", "bandeira": "VISA 13 digit", "credit_card": "4293881497892", "value": "$0.44", "dia_compra": "2023-07-14", "horario_compra": "16:21:32", "formato_captura": "TEF"}
+
+2023-07-14 16:21:34,888::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "Ian Marshall", "bandeira": "Diners Club / Carte Blanche", "credit_card": "30071216671060", "value": "$77,772.55", "dia_compra": "2023-07-14", "horario_compra": "16:21:33", "formato_captura": "Gateway"}
+
+2023-07-14 16:21:35,890::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "Tim Burke", "bandeira": "Maestro", "credit_card": "676186612633", "value": "$292.11", "dia_compra": "2023-07-14", "horario_compra": "16:21:34", "formato_captura": "Gateway"}
+
+2023-07-14 16:21:36,892::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "Aaron Mitchell", "bandeira": "JCB 16 digit", "credit_card": "3567103321008360", "value": "$92,951.99", "dia_compra": "2023-07-14", "horario_compra": "16:21:35", "formato_captura": "TEF"}
+
+2023-07-14 16:22:22,939::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "Mr. Manuel Castro MD", "bandeira": "American Express", "credit_card": "342008714380946", "value": "$525.26", "dia_compra": "2023-07-14", "horario_compra": "16:22:21", "formato_captura": "Gateway"}
+
+2023-07-14 16:22:23,941::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "Victor Garcia", "bandeira": "Maestro", "credit_card": "630497993497", "value": "$2,799.64", "dia_compra": "2023-07-14", "horario_compra": "16:22:22", "formato_captura": "POS"}
+
+2023-07-14 16:22:24,942::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "Jessica Patrick", "bandeira": "VISA 19 digit", "credit_card": "4419971399221717910", "value": "$4.40", "dia_compra": "2023-07-14", "horario_compra": "16:22:23", "formato_captura": "TEF"}
+
+2023-07-14 16:22:25,944::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "Christine Willis", "bandeira": "Discover", "credit_card": "6011004782092098", "value": "$1.73", "dia_compra": "2023-07-14", "horario_compra": "16:22:24", "formato_captura": "TEF"}
+
+2023-07-14 16:22:26,946::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "Jose Martin", "bandeira": "Diners Club / Carte Blanche", "credit_card": "38455017079692", "value": "$4,498.87", "dia_compra": "2023-07-14", "horario_compra": "16:22:25", "formato_captura": "POS"}
+
+2023-07-14 16:22:27,947::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "Angela Newman", "bandeira": "Diners Club / Carte Blanche", "credit_card": "30158341672970", "value": "$5.31", "dia_compra": "2023-07-14", "horario_compra": "16:22:26", "formato_captura": "TEF"}
+
+2023-07-14 16:22:28,949::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "Mark Shaw", "bandeira": "Discover", "credit_card": "6011288436233428", "value": "$4,460.04", "dia_compra": "2023-07-14", "horario_compra": "16:22:27", "formato_captura": "TEF"}
+
+2023-07-14 16:22:29,951::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "Robert Hill", "bandeira": "Discover", "credit_card": "6545500541863773", "value": "$694.68", "dia_compra": "2023-07-14", "horario_compra": "16:22:28", "formato_captura": "TEF"}
+
+2023-07-14 16:22:30,953::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "Samantha Huynh", "bandeira": "Mastercard", "credit_card": "5285683215989011", "value": "$85.80", "dia_compra": "2023-07-14", "horario_compra": "16:22:29", "formato_captura": "Gateway"}
+
+2023-07-14 16:22:31,955::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "Rebecca Wagner", "bandeira": "Diners Club / Carte Blanche", "credit_card": "30571504260302", "value": "$4,480.37", "dia_compra": "2023-07-14", "horario_compra": "16:22:30", "formato_captura": "TEF"}
+
+2023-07-14 16:23:18,001::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "Monica Garcia", "bandeira": "Diners Club / Carte Blanche", "credit_card": "30386499970421", "value": "$61,352.97", "dia_compra": "2023-07-14", "horario_compra": "16:23:17", "formato_captura": "POS"}
+
+2023-07-14 16:23:19,003::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "Alison Jimenez", "bandeira": "Mastercard", "credit_card": "5344639243060133", "value": "$53,145.41", "dia_compra": "2023-07-14", "horario_compra": "16:23:18", "formato_captura": "TEF"}
+
+2023-07-14 16:23:20,006::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "Daniel Clark", "bandeira": "Diners Club / Carte Blanche", "credit_card": "30574563388170", "value": "$3.83", "dia_compra": "2023-07-14", "horario_compra": "16:23:19", "formato_captura": "POS"}
+
+2023-07-14 16:23:21,008::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "Kyle Galvan", "bandeira": "VISA 16 digit", "credit_card": "4809319079651971", "value": "$2,586.83", "dia_compra": "2023-07-14", "horario_compra": "16:23:20", "formato_captura": "Gateway"}
+
+2023-07-14 16:23:22,010::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "Raymond Brown", "bandeira": "Mastercard", "credit_card": "2720775334020346", "value": "$93,297.15", "dia_compra": "2023-07-14", "horario_compra": "16:23:21", "formato_captura": "POS"}
+
+2023-07-14 16:23:23,011::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "Frank Smith", "bandeira": "American Express", "credit_card": "373857624854800", "value": "$90.38", "dia_compra": "2023-07-14", "horario_compra": "16:23:22", "formato_captura": "POS"}
+
+2023-07-14 16:23:24,013::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "Kevin Flores", "bandeira": "JCB 15 digit", "credit_card": "180052340252058", "value": "$851.87", "dia_compra": "2023-07-14", "horario_compra": "16:23:23", "formato_captura": "Gateway"}
+
+2023-07-14 16:23:25,015::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "Olivia Wang", "bandeira": "JCB 15 digit", "credit_card": "213164778860897", "value": "$95,932.09", "dia_compra": "2023-07-14", "horario_compra": "16:23:24", "formato_captura": "POS"}
+
+2023-07-14 16:23:26,017::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "Mr. Jeffrey Rodriguez", "bandeira": "Discover", "credit_card": "6569409492206712", "value": "$730.47", "dia_compra": "2023-07-14", "horario_compra": "16:23:25", "formato_captura": "POS"}
+
+2023-07-14 16:23:27,019::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "Jennifer Allen", "bandeira": "VISA 13 digit", "credit_card": "4389124851075", "value": "$0.43", "dia_compra": "2023-07-14", "horario_compra": "16:23:26", "formato_captura": "Gateway"}
+
+2023-07-14 16:24:15,065::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "Eric Austin", "bandeira": "American Express", "credit_card": "374800581342392", "value": "$9.31", "dia_compra": "2023-07-14", "horario_compra": "16:24:14", "formato_captura": "TEF"}
+
+2023-07-14 16:24:16,067::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "Eric Brown", "bandeira": "Discover", "credit_card": "6540574657185722", "value": "$24.36", "dia_compra": "2023-07-14", "horario_compra": "16:24:15", "formato_captura": "TEF"}
+
+2023-07-14 16:24:17,069::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "Brian Lawrence", "bandeira": "VISA 19 digit", "credit_card": "4396513831805706575", "value": "$658.04", "dia_compra": "2023-07-14", "horario_compra": "16:24:16", "formato_captura": "Gateway"}
+
+2023-07-14 16:24:18,070::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "Amber Boone", "bandeira": "Maestro", "credit_card": "580370595465", "value": "$130.87", "dia_compra": "2023-07-14", "horario_compra": "16:24:17", "formato_captura": "Gateway"}
+
+2023-07-14 16:24:19,072::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "Andrea Harris", "bandeira": "JCB 15 digit", "credit_card": "213186248513624", "value": "$37,082.07", "dia_compra": "2023-07-14", "horario_compra": "16:24:18", "formato_captura": "Gateway"}
+
+2023-07-14 16:24:20,074::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "James Roberts", "bandeira": "JCB 16 digit", "credit_card": "3517489119937725", "value": "$42.48", "dia_compra": "2023-07-14", "horario_compra": "16:24:19", "formato_captura": "POS"}
+
+2023-07-14 16:24:21,076::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "Jo Wood", "bandeira": "Maestro", "credit_card": "502054705970", "value": "$75,908.82", "dia_compra": "2023-07-14", "horario_compra": "16:24:20", "formato_captura": "Gateway"}
+
+2023-07-14 16:24:22,078::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "Charlotte Thomas", "bandeira": "JCB 16 digit", "credit_card": "3563908607649842", "value": "$13,068.92", "dia_compra": "2023-07-14", "horario_compra": "16:24:21", "formato_captura": "POS"}
+
+2023-07-14 16:24:23,080::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "Karen Mckenzie", "bandeira": "VISA 16 digit", "credit_card": "4346618208515373", "value": "$4.59", "dia_compra": "2023-07-14", "horario_compra": "16:24:22", "formato_captura": "Gateway"}
+
+2023-07-14 16:24:24,081::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "Lauren Underwood", "bandeira": "American Express", "credit_card": "372878473604626", "value": "$3,397.26", "dia_compra": "2023-07-14", "horario_compra": "16:24:23", "formato_captura": "POS"}
+
+2023-07-14 16:24:43,101::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "Kyle Harris", "bandeira": "JCB 15 digit", "credit_card": "213129553986498", "value": "$6.99", "dia_compra": "2023-07-14", "horario_compra": "16:24:42", "formato_captura": "TEF"}
+
+2023-07-14 16:24:44,103::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "Richard Moore", "bandeira": "Mastercard", "credit_card": "2297316343396915", "value": "$18.38", "dia_compra": "2023-07-14", "horario_compra": "16:24:43", "formato_captura": "Gateway"}
+
+2023-07-14 16:24:45,104::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "Jennifer Jones", "bandeira": "VISA 19 digit", "credit_card": "4068613379270032113", "value": "$297.78", "dia_compra": "2023-07-14", "horario_compra": "16:24:44", "formato_captura": "POS"}
+
+2023-07-14 16:24:46,106::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "Erin Rivas", "bandeira": "American Express", "credit_card": "343768717524076", "value": "$33.71", "dia_compra": "2023-07-14", "horario_compra": "16:24:45", "formato_captura": "Gateway"}
+
+2023-07-14 16:24:47,109::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "Tara Fernandez", "bandeira": "Maestro", "credit_card": "676228562127", "value": "$8.68", "dia_compra": "2023-07-14", "horario_compra": "16:24:46", "formato_captura": "TEF"}
+
+2023-07-14 16:24:48,110::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "Joshua Smith", "bandeira": "JCB 15 digit", "credit_card": "180088183909503", "value": "$3.90", "dia_compra": "2023-07-14", "horario_compra": "16:24:47", "formato_captura": "POS"}
+
+2023-07-14 16:24:49,113::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "Ashley Travis", "bandeira": "Discover", "credit_card": "6011770649024421", "value": "$7.25", "dia_compra": "2023-07-14", "horario_compra": "16:24:48", "formato_captura": "POS"}
+
+2023-07-14 16:24:50,115::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "Timothy Gonzalez", "bandeira": "VISA 19 digit", "credit_card": "4540820911504951283", "value": "$46.33", "dia_compra": "2023-07-14", "horario_compra": "16:24:49", "formato_captura": "TEF"}
+
+2023-07-14 16:24:51,116::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "Megan Stanley", "bandeira": "Discover", "credit_card": "6011227369333672", "value": "$98,269.83", "dia_compra": "2023-07-14", "horario_compra": "16:24:50", "formato_captura": "POS"}
+
+2023-07-14 16:24:52,118::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "Justin Green", "bandeira": "Mastercard", "credit_card": "2270847881325909", "value": "$1,760.52", "dia_compra": "2023-07-14", "horario_compra": "16:24:51", "formato_captura": "TEF"}
+
+2023-07-14 16:25:37,161::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "Laura Snyder", "bandeira": "JCB 16 digit", "credit_card": "3583639031409737", "value": "$59.47", "dia_compra": "2023-07-14", "horario_compra": "16:25:36", "formato_captura": "TEF"}
+
+2023-07-14 16:25:38,163::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "Michael Dixon", "bandeira": "Maestro", "credit_card": "564214058161", "value": "$223.31", "dia_compra": "2023-07-14", "horario_compra": "16:25:37", "formato_captura": "TEF"}
+
+2023-07-14 16:25:39,164::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "Ms. Elizabeth Goodwin", "bandeira": "Maestro", "credit_card": "503887605767", "value": "$75.54", "dia_compra": "2023-07-14", "horario_compra": "16:25:38", "formato_captura": "Gateway"}
+
+2023-07-14 16:25:40,166::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "Roger Lee", "bandeira": "Mastercard", "credit_card": "5112961718297879", "value": "$5.52", "dia_compra": "2023-07-14", "horario_compra": "16:25:39", "formato_captura": "POS"}
+
+2023-07-14 16:25:41,168::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "Kenneth Mckenzie", "bandeira": "JCB 15 digit", "credit_card": "213104987469445", "value": "$958.98", "dia_compra": "2023-07-14", "horario_compra": "16:25:40", "formato_captura": "TEF"}
+
+2023-07-14 16:25:42,170::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "Brandon Larson", "bandeira": "JCB 16 digit", "credit_card": "3539427958277286", "value": "$67,245.11", "dia_compra": "2023-07-14", "horario_compra": "16:25:41", "formato_captura": "POS"}
+
+2023-07-14 16:25:43,172::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "John Barrett", "bandeira": "VISA 16 digit", "credit_card": "4670262865192808", "value": "$924.81", "dia_compra": "2023-07-14", "horario_compra": "16:25:42", "formato_captura": "POS"}
+
+2023-07-14 16:25:44,174::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "John Anderson", "bandeira": "JCB 16 digit", "credit_card": "3556313740236418", "value": "$84,297.93", "dia_compra": "2023-07-14", "horario_compra": "16:25:43", "formato_captura": "Gateway"}
+
+2023-07-14 16:25:45,175::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "Holly Cantu", "bandeira": "JCB 15 digit", "credit_card": "213134592799746", "value": "$649.03", "dia_compra": "2023-07-14", "horario_compra": "16:25:44", "formato_captura": "POS"}
+
+2023-07-14 16:25:46,177::INFO::                              root::Mensagem produzida dentro do topico streaming_cartao com os valores {"name": "Nathaniel Winters", "bandeira": "Discover", "credit_card": "6585504164879430", "value": "$6.91", "dia_compra": "2023-07-14", "horario_compra": "16:25:45", "formato_captura": "POS"}
+
